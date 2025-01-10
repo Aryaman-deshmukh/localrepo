@@ -5,7 +5,7 @@ int main()
 
     printf("added new feature.(button)");
 
-    printf("added new feature.(dropdown)");
+    printf("added feature.(dropdown)");
 
 
     return 0;
